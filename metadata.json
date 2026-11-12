@@ -1,0 +1,6 @@
+{
+  "name": "Museos CABA — Guía Cultural",
+  "description": "Guía interactiva para turistas en la Ciudad Autónoma de Buenos Aires para descubrir los museos más cercanos con descripciones, niveles de precio, horarios y rutas.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
